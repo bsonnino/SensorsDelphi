@@ -1,0 +1,9 @@
+inherited Form2_Surface: TForm2_Surface
+  ClientHeight = 1920
+  ClientWidth = 1080
+  DesignerMasterStyle = 0
+  inherited PaintBox1: TPaintBox
+    Position.Y = 1776.000000000000000000
+    Size.Width = 1080.000000000000000000
+  end
+end

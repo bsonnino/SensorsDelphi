@@ -1,0 +1,9 @@
+inherited Form2_Windows: TForm2_Windows
+  ClientHeight = 427
+  ClientWidth = 619
+  DesignerMasterStyle = 0
+  inherited PaintBox1: TPaintBox
+    Position.Y = 283.000000000000000000
+    Size.Width = 619.000000000000000000
+  end
+end
